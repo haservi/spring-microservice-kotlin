@@ -30,7 +30,7 @@ docs 폴더의 `Book Spring Microservice API.postman_collection.json` 파일을 
 
 ## 코드 실습
 
-### [Chapter1](https://github.com/haservi/book-spring-microservice-kotlin/tree/main/chapter1)
+### [Chapter1](https://github.com/haservi/spring-microservice-kotlin/tree/master/chapter1)
 
 기본적인 API 동작을 확인할 수 있습니다. 스프링 Boot를 이용하여 REST API 호출부를 실습합니다.
 
@@ -74,7 +74,7 @@ docs 폴더의 `Book Spring Microservice API.postman_collection.json` 파일을 
 
 1.5 클라우드 및 마이크로서비스 기반 애플리케이션
 
-실습코드 참조 [코드](https://github.com/haservi/book-spring-microservice-kotlin/tree/main/chapter1)
+실습코드 참조 [코드](https://github.com/haservi/spring-microservice-kotlin/tree/master/chapter1)
 
   1. 클라우드 컴퓨팅에서는 여러 가지 서비스 모델
 
@@ -178,7 +178,7 @@ docs 폴더의 `Book Spring Microservice API.postman_collection.json` 파일을 
 요약: ...
 
 
-<details open>
+<details>
 <summary>내용 정리(펼치기)</summary>
 
 2.1 스프링 클라우드란?
